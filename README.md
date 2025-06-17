@@ -28,7 +28,6 @@ Easily integrate **Twilio SMS** in your **Laravel 12 application** and start sen
 
 ## 📦 Installation
 
-```bash
 composer require twilio/sdk
 ⚙️ Configuration
 Add the following to your .env file:
