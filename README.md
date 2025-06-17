@@ -4,7 +4,7 @@ Easily integrate **Twilio SMS** in your **Laravel 12 application** and start sen
 
 👉 [Read the Full Tutorial](https://itstuffsolutiotions.io/how-to-send-sms-to-mobile-number-in-laravel-12-using-twilio-api/)
 
-[----](https://itstuffsolutiotions.io/wp-content/uploads/2025/06/how-to-send-sms-to-mobile-number-in-laravel-12-using-twilio-api-sms-461x1024.webp)
+https://itstuffsolutiotions.io/wp-content/uploads/2025/06/how-to-send-sms-to-mobile-number-in-laravel-12-using-twilio-api-sms-461x1024.webp
 
 [---](https://itstuffsolutiotions.io/wp-content/uploads/2025/06/how-to-send-sms-to-mobile-number-in-laravel-12-using-twilio-api-send-sms-768x187.webp)
 
